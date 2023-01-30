@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.Container {
+    
+    background-color:wheat;
+    height: 100hv;
+    width: 100vw;
+}
+
+.span {
+
+    background-color: darkcyan;
+    width:25vw;
+    height: 15vh;
+    margin-left: 28px;
+    margin-top: 20px;
+
+}
+.pre1 {
+    
+    background-color:white;
+    width: 100vw;
+    height: 12vh;
+    display: flex;
+    flex-direction: row;
+    /* margin-left: 10px; */
+    margin-top: 15px;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+.box {
+
+    /* background-color: coral; */
+    width: 45vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 40px;
+    justify-content: space-evenly;
+
+}
+
+
+ #span {
+/* 
+    background-color: chartreuse;
+    /* width: 40px;
+    height: 15px;
+     */
+} 
