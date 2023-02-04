@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: white;
+  width: 100%;
+}
+.content {
+  width: 100%;
+  
+}
+
+table .list {
+  width: 20rem;
+  
+}
+
+.content td {
+  text-align: center;
+  height: 4rem;
+  
+}
+
+.content td.teams {
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+
+table img {
+  width: 25px;
+  height: 25px;
+}
+.form {
+  background-color: #13cf00;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.drawn {
+  background-color: #76766f;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+}
+.lose {
+  background-color: #d81920;
+  color: white;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+table select {
+  border: none;
+  padding: 10px;
+  background-color: white;
+}
+.bar {
+  background-color: #e6efe5;
+}
+.bar th {
+  height: 20px;
+}
+
+.teams img {
+  margin-right: 25px;
+}
